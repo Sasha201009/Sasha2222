@@ -1,1 +1,23 @@
+body {
+    font-family: sans-serif;
+}
 
+header {
+    background-color: orange;
+}
+
+h1 {
+    color: orange;
+}
+
+footer {
+    background-color: orange;
+}
+
+footer p {
+    color: teal;
+}
+
+table p {
+    color: darkblue;
+}
